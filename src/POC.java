@@ -11,5 +11,6 @@ public class POC {
             System.out.println(i);
         }
         System.out.println("First Commit in master");
+        System.out.println("Second Commit in master");
     }
 }
